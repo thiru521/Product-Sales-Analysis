@@ -7,7 +7,7 @@ This project is an interactive Product Sales Analysis Dashboard developed using 
 
 The main objective of this project is to transform raw sales data into an interactive and visually informative dashboard that supports data-driven decision-making.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 Analyze overall sales and profit performance.
 Track product and category-wise sales.
 Identify top-performing products.
