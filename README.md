@@ -22,27 +22,38 @@ Monitor monthly and yearly sales trends.
 Provide interactive insights using filters and slicers.
 
 # 🛠️ Tools & Technologies Used
-   Power BI
-   Power Query
+Power BI
+
+Power Query
+
 DAX
+
 Microsoft Excel
+
 Data Cleaning
+
 Data Transformation
+
 Data Visualization
 
 # 📊 Dashboard Features
 
-
-
 The dashboard includes:
 
 Total Sales KPI
+
 Total Orders KPI
+
 Total Quantity Sold
+
 Sales by Product Category
+
 Sales by Region
+
 Monthly Sales Trend
+
 Top Performing Products
+
 Interactive Filters and Slicers
 
 # 🔄 Data Preparation
@@ -52,8 +63,11 @@ The raw dataset was cleaned and transformed using Power Query.
 Key steps included:
 
 Handling missing and duplicate values.
+
 Checking and correcting data types.
+
 Creating calculated columns where required.
+
 Transforming raw data into an analysis-ready format.
 
 # 📈 Data Analysis
@@ -61,9 +75,13 @@ Transforming raw data into an analysis-ready format.
 DAX measures were used to calculate important business metrics such as:
 
 Total Sales
+
 Total Orders
+
 Total Quantity Sold
+
 Average Sales
+
 Profit Margin
 
 # 📷 Dashboard Preview
