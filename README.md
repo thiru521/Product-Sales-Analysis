@@ -91,7 +91,11 @@ Profit Margin
 # 💡 Key Insights
 
 Identified top-performing products based on sales and profit.
+
 Compared sales performance across different regions.
+
 Analyzed category-wise contribution to overall revenue.
+
 Observed monthly sales trends and seasonal patterns.
+
 Used interactive slicers to explore data based on different business requirements.
