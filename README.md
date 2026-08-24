@@ -86,4 +86,4 @@ Profit Margin
 
 # 📷 Dashboard Preview
 
-![Product Sales Dashboard](Product-Sales-Analysis/Images/Dashboard-Overview.jpg)
+![Dashboard Overview](Images/Dashboard_Overview.jpg)
