@@ -22,6 +22,7 @@ Monitor monthly and yearly sales trends.
 Provide interactive insights using filters and slicers.
 
 # 🛠️ Tools & Technologies Used
+
 Power BI
 
 Power Query
@@ -79,10 +80,6 @@ Total Sales
 Total Orders
 
 Total Quantity Sold
-
-Average Sales
-
-Profit Margin
 
 # 📷 Dashboard Preview
 
